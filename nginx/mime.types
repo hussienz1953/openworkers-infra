@@ -3,6 +3,7 @@ types {
   text/css                              css;
   text/xml                              xml;
   text/plain                            txt;
+  text/typescript                        ts;
 
   image/gif                             gif;
   image/jpeg                            jpeg jpg;

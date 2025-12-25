@@ -1,0 +1,13 @@
+services:
+  openworkers-proxy:
+    ports:
+      - 80:80
+      - 443:443
+    entrypoint:
+      [
+        "/usr/sbin/nginx",
+        "-c",
+        "/etc/nginx/nginx.dev.conf",
+        "-g",
+        "daemon off;",
+      ]

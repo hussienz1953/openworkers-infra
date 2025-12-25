@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["keepalive", "loggable", "openworkers", "webp"]
+  "cSpell.words": [
+    "healthcheck",
+    "keepalive",
+    "loggable",
+    "openworkers",
+    "postgate",
+    "psql",
+    "webp"
+  ]
 }
