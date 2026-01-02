@@ -30,7 +30,7 @@ services:
       start_period: 5s
   # OpenWorkers API
   openworkers-api:
-    image: ghcr.io/openworkers/openworkers-api:v1.2.0
+    image: ghcr.io/openworkers/openworkers-api:v1.2.1
     depends_on:
       - postgate
     env_file:
@@ -124,7 +124,7 @@ services:
 
   # OpenWorkers Dashboard
   openworkers-dash:
-    image: ghcr.io/openworkers/openworkers-dash:v1.2.0
+    image: ghcr.io/openworkers/openworkers-dash:v1.2.1
     healthcheck:
       test:
         [
