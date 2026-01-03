@@ -81,7 +81,7 @@ services:
       start_period: 5s
   # OpenWorkers Runner
   openworkers-runner:
-    image: ghcr.io/openworkers/openworkers-runner:v0.7.3-v8
+    image: ghcr.io/openworkers/openworkers-runner:v0.7.5-v8
     env_file:
       - .env
     environment:
